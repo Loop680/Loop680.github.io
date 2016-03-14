@@ -1,14 +1,13 @@
 ---
 layout:     post
-title:      "Example Post"
-subtitle:   "ES5, ES6, ES2016, ES.Next: What's going on with JavaScript versioning?"
-date:       2015-09-22
-author:     "Hux"
+title:      "第一章 被征召的人们"
+subtitle:   "命运的车轮又TM开始转动了"
+date:       2016-03-14
+author:     "Loop680"
 header-img: "img/post-bg-js-version.jpg"
 tags:
-    - 前端开发
-    - JavaScript
-    - 翻译
+    - 小说
+
 ---
 
 
