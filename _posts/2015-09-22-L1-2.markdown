@@ -4,7 +4,7 @@ title:      "第二章 朝阳区的天是晴朗的天"
 subtitle:   "吃！指不定就是最后一顿了"
 date:       2016-03-14
 author:     "Loop680"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/BG-unclecat.jpg"
 tags:
     - 小说
 

@@ -4,7 +4,7 @@ title:      "第一章 被征召的人们"
 subtitle:   "命运的车轮又TM开始转动了"
 date:       2016-03-14
 author:     "Loop680"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/BG-unclecat.jpg"
 tags:
     - 小说
 
