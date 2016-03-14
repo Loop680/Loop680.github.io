@@ -6,7 +6,7 @@ date:       2016-03-14 20:30:00
 author:     "Loop680"
 header-img: "img/BG-U.jpg"
 tags:
-    - 《若星汉灿烂》
+    - 小说
 ---
 
 ## 第一章 被征召的人们
