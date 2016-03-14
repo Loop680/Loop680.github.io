@@ -1,12 +1,12 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: Loop680 Blog
+SEOTitle: Loop680的博客 | Loop680 Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: ""
-keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+email: lmx19881228@gmail.com
+description: "《若星汉灿烂》难产连载中"
+keyword: "想到哪儿，写到哪儿 _(:зゝ∠)_"
+url: "http://Loop680.github.io"              # your host, for absolute URL
+baseurl: "/blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
