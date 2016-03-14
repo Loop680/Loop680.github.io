@@ -1,29 +1,28 @@
-﻿# Site settings
-title: Loop680 Blog
-SEOTitle: Loop680的博客 | Loop680 Blog
+# Site settings
+title: Your Blog
+SEOTitle: 你的博客 | Your Blog
 header-img: img/home-bg.jpg
-email: lmx19881228@gmail.com
-description: "《若星汉灿烂》难产连载中"
-keyword: "想到哪儿，写到哪儿 _(:зゝ∠)_"
-url: "http://Loop680.github.io"              # your host, for absolute URL
-baseurl: "/blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
+email: huxpro@gmail.com
+description: ""
+keyword: ""
+url: "http://huangxuan.me"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     五块钱三斤的多功能小晃呱
-zhihu_username:     Loop680
-github_username:    Loop680
+weibo_username:     huxpro
+zhihu_username:     huxpro
+github_username:    huxpro
 #twitter_username:  huxpro
-#facebook_username:  huxpro
+facebook_username:  huxpro
 
 
 
 # Build settings
-highlighter: rouge
+highlighter: pygments
 permalink: pretty
-gems: [jekyll-paginate]
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
@@ -44,7 +43,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: None
+duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -62,8 +61,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "想写代码，想做设计，想转PM，什么都想干，什么都没干。"
-sidebar-avatar: /img/81173_large.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
+sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -76,8 +75,8 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Loop680 Blog",
-        href: "http://Loop680.github.io"
+        title: "Hux Blog",
+        href: "http://huangxuan.me"
     },{
         title: "Foo",
         href: "#"
