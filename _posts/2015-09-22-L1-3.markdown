@@ -4,7 +4,7 @@ title:      "第三章 牧羊人　"
 subtitle:   "不管前面是什么，活下去"
 date:       2016-03-14
 author:     "Loop680"
-header-img: "img/BG-unclecat.jpg"
+header-img: "img/girl.jpg"
 tags:
     - 小说
 
